@@ -17,4 +17,4 @@ A simple web server based on Flask
 
 Auto static file redirect
 
-python(3) SimpleWebServer.py
+python(3) SimpleWebServer.py {root directory}
