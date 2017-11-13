@@ -6,7 +6,7 @@ A small html5 canvas api abstraction for plot.
 
 Motivated by distributed system project
 
-Input json object
+Input json array object or javascript 2d array object
 
 Only output line plot
 
