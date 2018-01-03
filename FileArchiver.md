@@ -14,7 +14,9 @@
    
       Directory 
          - time.strptime("2017-12-01","%Y-%m-%d")
+         
          - time.strftime(format[, t])
+         
       Meta data - os.stat("filname").st_ctime -float
       
    * Source (Unique)
