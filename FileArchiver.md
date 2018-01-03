@@ -6,13 +6,17 @@
 * Remove temp files and other disposable files
 ## TODO
 1. Traverse 
-   * Read file list  -  os.walk("/tmp")
+   * Read file list
+   
+      -  os.walk("/tmp")
+      
    * Remove disposable files
    * Unzip compressed files
 2. Identify
    * Time > float
    
       Directory 
+      
          - time.strptime("2017-12-01","%Y-%m-%d")
          
          - time.strftime(format[, t])
